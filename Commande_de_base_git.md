@@ -2,10 +2,10 @@
 
 ```shell
 # Identity Name
-git config --global user.name "elneris"
+git config --global user.name "flanord"
 
 # Identity Email
-git config --global user.email "elneris.dang@gmail.com"
+git config --global user.email "contact@flanord-nziengui.com"
 
 # Editor Tool
 git config --global core.editor subl
